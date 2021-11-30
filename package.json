@@ -15,5 +15,20 @@
   "bugs": {
     "url": "https://github.com/Fergieboi/boilerplate-creation/issues"
   },
-  "homepage": "https://github.com/Fergieboi/boilerplate-creation#readme"
+  "homepage": "https://github.com/Fergieboi/boilerplate-creation#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "img-loader": "^4.0.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0",
+    "webpack-merge": "^5.8.0"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "reactdom": "^2.0.0"
+  }
 }
